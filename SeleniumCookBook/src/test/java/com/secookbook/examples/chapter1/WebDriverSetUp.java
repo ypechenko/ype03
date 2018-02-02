@@ -60,7 +60,7 @@ public class WebDriverSetUp {
 					    EdgeOptions options = new EdgeOptions();
 					    options.setPageLoadStrategy("eager");
 
-					    // Launch a new Edge instance *** *** ***
+					    // Launch a new Edge instance *** ***
 					    driver = new EdgeDriver(options);
 			}
 	}
