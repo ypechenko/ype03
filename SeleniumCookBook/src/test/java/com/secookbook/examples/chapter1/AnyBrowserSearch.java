@@ -11,7 +11,7 @@ import org.junit.*;
 
 import static org.junit.Assert.*;
 
-public class AnyBrowserSearchTest extends WebDriverSetUp {
+public class AnyBrowserSearch extends WebDriverSetUp {
    
 
   @Test
