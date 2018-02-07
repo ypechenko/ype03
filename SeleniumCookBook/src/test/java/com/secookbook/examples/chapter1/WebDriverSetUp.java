@@ -34,7 +34,7 @@ public class WebDriverSetUp {
 			        
 			}else {
 				
-				System.out.println("Browser is not comfigured"); //**
+				System.out.println("Browser is not comfigured"); //** **
 				
 				
 			}
